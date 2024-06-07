@@ -6,7 +6,13 @@ account.xiaomi.com/pass/register
 ![Screenshot from 2024-06-08 02-10-18](https://github.com/valenzaa/ROOT-Xiaomi-Redmi-Note-10-Pro/assets/144785020/2c84c7d5-0dff-4603-a962-6fc589701356)
 ROM https://ultimateota.d.miui.com/V14.0.8.0.TKFMIXM/miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip?t=1717787626&s=1aa499aa6d34ba87febb7f53ef32cde4
 https://new.c.mi.com/global/miuidownload/detail/device/1900389
-การสร้าง Custom Recovery เอง (เช่น TWRP) สำหรับ Redmi Note 10 Pro บน Ubuntu ต้องใช้เครื่องมือพัฒนาและซอร์สโค้ดของ TWRP ซึ่งกระบวนการนี้จะต้องการความรู้ทางเทคนิคขั้นสูงและเวลาในการทำงาน
+# Windows 
+คลิ๊กแล้วอำลาได้เลย https://new.c.mi.com/global/miuidownload/detail/device/1900389
+ติดต่อเรื่อง rom mod ได้
+# Ubuntu 
+## การสร้าง Custom Recovery เอง (เช่น TWRP) 
+สำหรับ ## Redmi Note 10 Pro บน Ubuntu 
+ต้องใช้เครื่องมือพัฒนาและซอร์สโค้ดของ TWRP ซึ่งกระบวนการนี้จะต้องการความรู้ทางเทคนิคขั้นสูงและเวลาในการทำงาน
 ขั้นตอนการสร้าง Custom Recovery สำหรับ Redmi Note 10 Pro
 
     การติดตั้งเครื่องมือพัฒนา:
